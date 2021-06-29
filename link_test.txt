@@ -1,1 +1,2 @@
-https://github.com/infiniteyawn/xutang_empty_hall/blob/main/source_chinese.txt
+case1()
+
