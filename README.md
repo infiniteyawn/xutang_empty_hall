@@ -17,3 +17,5 @@ Or in any other repositories I have:
 https://github.com/infiniteyawn/xutang_empty_hall/search?q=user%3Ainfiniteyawn+%E5%AE%9A%E6%B3%95
 
 See, easy!
+
+It does seem to take a while to index though...
