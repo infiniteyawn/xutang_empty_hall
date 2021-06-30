@@ -18,4 +18,4 @@ https://github.com/infiniteyawn/xutang_empty_hall/search?q=user%3Ainfiniteyawn+%
 
 See, easy!
 
-It does seem to take a while to index though...
+It does seem to take a while to index though or there's some really bad unicode issues because github doesn't seem to find characters in the repo very well.
