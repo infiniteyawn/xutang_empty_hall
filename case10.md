@@ -10,6 +10,7 @@ Often/always had a cloth sack and a broken woven mat
 
 於通衢往來。
 ???? seems kind of irrelevant anyway. hoffman ignores it. 
+oneoftheunfettered: arriving on the open road and returning thereby.
 
 布袋內盛鉢盂木履魚飯菜肉瓦石土木諸般總有。
 The cloth bag had broken pottery, fish, meat, all kinds of nonsense. (see hofmann)
