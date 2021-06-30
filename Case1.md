@@ -18,7 +18,7 @@ Citing: One day Buddha saw Manjusri1 standing immediately outside the entrance. 
 Xutang: Speaking on behalf the reader: You give me many entrances.
 
 .
-
+ 
 Footnotes:
 
 .
@@ -36,3 +36,18 @@ Shobogenzo by Dahui, Treasury of the Eye of True Teaching #274: Master Linji sai
 .
 
 Shobogenzo by Dahui, Treasury of the Eye of True Teaching #634: Master Changqing Yan said... "When the World Honored One was about to enter nirvana, Manjusri asked the Buddha to turn the wheel of Dharma again. The World Honored One scolded him, "I remained in the world for forty-nine years, but never had a single word to give people. You're asking me to turn the wheel of Dharma again - this implies that I have already turned the wheel of Dharma." So in the present time, setting up guest and host in the community, with questions and answers, is a matter than cannot be helped, just for the sake of beginners."
+
+
+
+Source translations: 
+Hofmann
+
+No Way
+One day Buddha saw Monju (a legendary Buddha representing Wisdom) standing outside the gate. He said, "Monju, Monju, why don't you come in?" Monju said. "There is no 'way' outside the gate. Why do you ask me to come in through the gate?"
+
+Master Kido
+You have taught me much.
+
+Master Hakun
+Every end is exposed
+Every thing is real
