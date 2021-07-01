@@ -15,16 +15,16 @@ Wuzhou going to TaiShan (mountain)
 Wenshu asks
 
 大德從何方而來。
-Where does great virtue come from?
+where have you come from (lit: Where does great virtue come from?)
 
 云。南方。
-from south of the yangtze
+from south of the yangtze / southern school (lit: from the south)
   
 云。南方佛法如何住持。
-how many abbots are there in the southern school?
+How is the dhamma taken care of in the southern school?
 
 云。末法比丘少奉戒律。
-at the final stage of the dhamma, there are few buddhist monks that revere/believe in monastic discipline
+In this final stage of the dhamma, there are few buddhist monks that revere/believe in monastic discipline
 
 云。多少眾。
 How many?
@@ -36,7 +36,7 @@ maybe 300, maybe 500.
 wuzhou never the less asked:
 
 和尚此間如何住持。
-buddhist monks here, how do they run the monastery?
+buddhist monks here, how do they run the monastery / care for the dhamma?
 
 云。凡聖同居。
 The ordinary and the sacred live together.
@@ -51,4 +51,4 @@ How many?
 In front, 33, behind, 33.
 
 代云。幾不到此。
-How many less than this.
+How many less than this!
