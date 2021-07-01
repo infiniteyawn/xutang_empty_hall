@@ -5,7 +5,7 @@ Original:
 代云。幾不到此。
 
 
-Translation, mine, notes, mdbge, before checking trans
+Translation, mine, notes, mdbge, before checking trans, then checked port to correct some obvious misreadings.
 無著 - wuzhou, character (Asanga - 4th century)
 無著往臺山。
 Wuzhou going to TaiShan (mountain)
