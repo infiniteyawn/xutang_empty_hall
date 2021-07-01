@@ -48,7 +48,7 @@ Dragons and snakes mingle = "a mix of good people and scumbags" (thanks mdbge)
 How many? 
 
 云。前三三後三三。
-In front, 33, behind, 33.
+In front, three three, behind, three three.
 
 代云。幾不到此。
-How many less than this!
+It doesn't even reach that many!
